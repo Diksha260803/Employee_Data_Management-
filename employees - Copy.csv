@@ -1,0 +1,9 @@
+employee_id,name,department,job_title,salary,hire_date,city
+101,John Doe,IT,Software Engineer,70000,15-03-2019,New York
+102,Jane Smith,HR,HR Manager,65000,23-07-2018,Chicago
+103,Michael Brown,Finance,Accountant,60000,10-01-2020,New York
+104,Emily Davis,IT,Data Analyst,72000,01-06-2021,San Francisco
+105,David Wilson,Sales,Sales Executive,55000,30-11-2017,Chicago
+106,Sarah Johnson,IT,Software Engineer,75000,12-09-2016,New York
+107,Chris Lee,Finance,Financial Analyst,68000,20-05-2019,San Francisco
+108,Anna White,HR,Recruiter,50000,14-02-2022,Chicago
